@@ -30,5 +30,7 @@ Multiple Linear, Quantile, Lasso, Ridge and Elastic Net Regressions were all use
 ## _Authors and Acknowledgment_ ##
 sgich
 
+Assistance: Technical Mentors of Moringa School (Nairobi, Kenya).
+
 ## License
 MIT © sgich
